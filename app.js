@@ -32,11 +32,12 @@ app.post("/", function(req, res){
 
     const jsonData = JSON.stringify(data);
     
-    const url = "https://us19.api.mailchimp.com/3.0/lists/74e49a740e";
+    // replace the X in url with the number at last of your api-key
+    const url = "https://usX.api.mailchimp.com/3.0/lists/your_list_id";
 
     const options = {
         method: "POST",
-        auth: "tonal:6f0b6f4ce1987a1672c8e66a04ed7dd2-us19"
+        auth: "any_string:enter_your_api_key_here"
     }
 
 const request = https.request(url, options, function(response){
@@ -63,7 +64,3 @@ app.listen(process.env.PORT || 4000, function(){
 });
 
 
-// 6f0b6f4ce1987a1672c8e66a04ed7dd2-us19
-// 74e49a740e
-
-// https://floating-journey-00400.herokuapp.com/
