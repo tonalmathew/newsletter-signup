@@ -1,6 +1,6 @@
 # newsletter-signup
 
-A simple ***Newsletter-Signup*** :wink: page 
+A simple ***Newsletter-Signup*** :rocket: page 
 
 ### Languages used
 * Frontend
