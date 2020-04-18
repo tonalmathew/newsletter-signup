@@ -16,7 +16,7 @@ A simple ***Newsletter-Signup*** :rocket: page
 - Add all other dependencies by `nmp install node`
 
 ### Functionality
-- It's a simple signup page which contains a ***`First Name`***, ***`Last Name`*** and a ***`email`***.
+- It's a simple signup page which contains a ***`First Name`***, ***`Last Name`*** and an ***`email`***.
 - All you have to do is ***`Fill up the form`*** and then hit ***`Signup`***.
 
 ### Working
