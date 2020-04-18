@@ -1,8 +1,22 @@
-### newsletter-signup
+# newsletter-signup
+
+A simple ***Newsletter-Signup*** :wink: page 
+
+### Languages used
+* Frontend
+  - HTML
+  - CSS
+  - Bootstrap
+* Backend
+  - EJS
+  - Node
+  - Express
+  - MongoDB
+
+### Functionality
 
 
-`npm init`
 
-`npm install express`
 
-`npm install body-parser`
+
+
