@@ -21,7 +21,7 @@ A simple ***Newsletter-Signup*** :rocket: page
 
 ### Working
 - The data collected from the form are stored in ***`Mailchimp`*** account using the ***`Mailchimp API`***
-- You can create your ***`Mailchimp`*** here :point_right: https://mailchimp.com/
+- You can create your ***`Mailchimp`*** account here :point_right: https://mailchimp.com/
 
 
 
