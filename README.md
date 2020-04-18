@@ -8,14 +8,12 @@ A simple ***Newsletter-Signup*** :wink: page
   - CSS
   - Bootstrap
 * Backend
-  - EJS
   - Node
   - Express
-  - MongoDB
 
 ### Functionality
-
-
+- It's a simple signup page which contains a `First Name`, `Last Name` and a `email`.
+- All you have to do is `Fill the form` and then hit `Signup`.
 
 
 
