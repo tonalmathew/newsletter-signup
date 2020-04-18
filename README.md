@@ -19,6 +19,9 @@ A simple ***Newsletter-Signup*** :rocket: page
 - It's a simple signup page which contains a ***`First Name`***, ***`Last Name`*** and a ***`email`***.
 - All you have to do is ***`Fill up the form`*** and then hit ***`Signup`***.
 
+### Working
+- The data collected from the form are stored in ***`Mailchimp`*** account using the ***`Mailchimp API`***
+
 
 
 ### Final Product
