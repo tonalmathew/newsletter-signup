@@ -12,8 +12,8 @@ A simple ***Newsletter-Signup*** :wink: page
   - Express
   
 ### Dependencies Required
-- Initialise npm by `npm init`.
-- Add all other dependencies by `nmp install node`.
+- Initialise npm by `npm init`
+- Add all other dependencies by `nmp install node`
 
 ### Functionality
 - It's a simple signup page which contains a ***`First Name`***, ***`Last Name`*** and a ***`email`***.
